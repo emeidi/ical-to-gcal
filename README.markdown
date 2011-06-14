@@ -17,12 +17,12 @@ iCal
 ----
 1. iCal
 1. Export > Export
-1. `~/Desktop/<source file>.ics`
+1. `~/Desktop/<calendar>.ics`
 1. Export
 
 Shell
 -----
-1. `./ical-to-gcal.py ~/Desktop/<source file>.ics`
+1. `./ical-to-gcal.py ~/Desktop/<calendar>.ics`
 
 Google Calendar
 ---------------
@@ -31,5 +31,5 @@ Google Calendar
 1. Calendar
 1. Import calendar
 1. Choose
-1. `~/Desktop/<source file>.gcal.ics`
+1. `~/Desktop/<calendar>.gcal.ics`
 1. Import 
